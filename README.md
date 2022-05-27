@@ -16,4 +16,5 @@ Here are some ideas to get you started: -->
 <!--
 - ⚡ Fun fact: ...
 -->
-[![Arifa GitHub stats](https://github-readme-stats.vercel.app/api?username=arfmtr)](https://github.com/arfmtr/github-readme-stats)
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arfmtr"></p>
