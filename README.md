@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-- 🌱 I’m currently learning NoSQL, Web Developer, Python
+- 🌱 I’m currently learning NoSQL, Web Developer, JQuery, AJAX, API
 - 😄 I have the following skills: Patience, Eager to learn and Problem Solving, and most importantly the ability to focus.
 
   <p align="center">
