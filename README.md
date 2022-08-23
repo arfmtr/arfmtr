@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
--->
+
 - 🌱 I’m currently learning NoSQL, Web Developer, JQuery, AJAX, API
 - 😄 I have the following skills: Patience, Eager to learn and Problem Solving, and most importantly the ability to focus.
 
@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 <a href = "https://www.linkedin.com/in/arifamutiaraa/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://public.tableau.com/app/profile/arifamtr"><img src="https://img.icons8.com/color/48/000000/tableau-software.png"/></a>
 </p>
+-->
